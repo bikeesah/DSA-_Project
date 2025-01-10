@@ -1,2 +1,3 @@
 # DSA-_Project
-Dsa student report using django
+This is the DSA based project.
+
